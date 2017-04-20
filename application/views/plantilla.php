@@ -2,9 +2,9 @@
 <html lang="es">
 <head>
 	<title>CRUD CODEIGNITER 3</title>
-	<link rel="stylesheet" type="text/css" href="<?php base_url('public/css/bootstrap.css')?>">
-	<script src="<?php base_url('public/js/jquery-3.2.1.min.js')?>"></script>
-	<script src="<?php base_url('public/js/bootstrap.js')?>"></script>
+	<link rel="stylesheet" type="text/css" href="public/css/bootstrap.css">
+	<script src="public/js/jquery-3.2.1.min.js"></script>
+	<script src="public/js/bootstrap.js"></script>
 	<style>
 		hr { 
 		    display: block;
@@ -20,7 +20,6 @@
 </head>
 <body>
 	<div id="container">
-	
 	<div class="col-md-10 col-md-offset-1">
 		<header>
 			<nav class="navbar navbar-default">
@@ -89,7 +88,6 @@
 			</footer>
 		</div>
 	</div>
-	
 	</div>
 </body>
 </html>
