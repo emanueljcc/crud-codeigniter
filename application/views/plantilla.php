@@ -2,9 +2,9 @@
 <html lang="es">
 <head>
 	<title>CRUD CODEIGNITER 3</title>
-	<link rel="stylesheet" type="text/css" href="public/css/bootstrap.css">
-	<script src="public/js/jquery-3.2.1.min.js"></script>
-	<script src="public/js/bootstrap.js"></script>
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url('public/css/bootstrap.css')?>">
+	<script src="<?php echo base_url('public/js/jquery-3.2.1.min.js')?>"></script>
+	<script src="<?php echo base_url('public/js/bootstrap.js')?>"></script>
 	<style>
 		hr { 
 		    display: block;
